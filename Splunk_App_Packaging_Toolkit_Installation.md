@@ -16,7 +16,7 @@ venv\Scripts\activate
 
 python --version
 
-curl https://download.splunk.com/misc/packaging-toolkit/splunk-packaging-toolkit-1.0.1.tar.gz
+curl https://download.splunk.com/misc/packaging-toolkit/splunk-packaging-toolkit-1.0.1.tar.gz --output splunk-packaging-toolkit-1.0.1.tar.gz
 
 pip install splunk-packaging-toolkit-1.0.1.tar.gz
 
